@@ -1,6 +1,6 @@
-Author: Ethan O'Connell
-Date: 2/18/24
-https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-string-manipulation-by-building-a-cipher/step-95
+# Author: Ethan O'Connell
+# Date: 2/18/24
+# https://www.freecodecamp.org/learn/scientific-computing-with-python/learn-string-manipulation-by-building-a-cipher/step-95
 
 text = 'mrttaqrhknsw ih puggrur'
 custom_key = 'happycoding'
